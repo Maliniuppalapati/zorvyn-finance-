@@ -31,9 +31,9 @@ MVC Architecture
 🔑 Test Credentials
 You can use these accounts to test the application:
 
-Role Email Password  
-Admin admin@test.com password123  
-Viewer viewer@test.com password123
+Role    Email           Password  
+Admin   admin@test.com  123  
+Viewer  viewer@test.com 123
 
 Note:
 
